@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hidden{
+    display: none;
+}
+
+#container{
+  width: 960px;
+  height:300px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin:0 auto;
+  background-color: grey;
+}
+
+#navItem{
+  list-style:none;
+  font-size: 20px;
+  display: inline;
+
+}
