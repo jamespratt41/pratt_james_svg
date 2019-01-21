@@ -5,18 +5,12 @@
     display: none;
 }
 
-#container{
-  width: 960px;
-  height:300px;
-  padding-left: 10px;
-  padding-right: 10px;
-  margin:0 auto;
-  background-color: grey;
+.image-wrapper{
+  width: 45%;
+  display:inline-block;
 }
 
-#navItem{
-  list-style:none;
-  font-size: 20px;
-  display: inline;
-
+img{
+  width:100%;
+  display: block;
 }
